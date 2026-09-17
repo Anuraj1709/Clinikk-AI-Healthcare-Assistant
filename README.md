@@ -138,4 +138,4 @@ npm run dev
 
 ## 👨‍💻 Author
 
-Developed as part of the **Clinikk AI Healthcare Assistant Assignment** using **FastAPI, React, OpenAI, LangChain, and FAISS**.
+Developed as part of the **Clinikk AI Healthcare Assistant** using **FastAPI, React, OpenAI, LangChain, and FAISS**.
